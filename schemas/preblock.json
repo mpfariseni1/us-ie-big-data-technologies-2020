@@ -1,8 +1,8 @@
 {
   "author": {
-    "name": "John Doe",
-    "student_nr": 12345678,
-    "email": "12345678@sun.ac.za"
+    "name": "Mpfariseni Mulaudzi",
+    "student_nr": 25749153,
+    "email": "mpfariseni@live.co.za"
   },
   "assignment": [
     {
@@ -10,17 +10,17 @@
       "questions": [
         {
           "question": "Loosely define the term 'data product' and provide an example?",
-          "answer": "",
+          "answer": "data product is the combination of data with statistical algorithms that are used for inference or prediction. Example is Amazon recommendations where Amazon examines items you’ve purchased, and based on similar purchase behavior of other users, makes recommendations. In this case, order history data is combined with recommendation algorithms to make predictions about what you might purchase in the future.",
           "total_marks": 2
         },
         {
           "question": "Provide a layman's explanation for what differentiates big data analytics from conventional data analytics?",
-          "answer": "",
+          "answer": "Big data employs complex technological tools like parallel computing and other automation tools to handle the “big data”. Conventional data analytics use predictive and statistical modelling with relatively simple tools. Also Conventional Data analytics is generally more focused than big data because instead of gathering huge piles of unstructured data, data analysts have a specific goal in mind and sort through relevant data to look for ways to gain support. On the other hand, big data is a collection of a huge volume of data that requires a lot of filtering out to derive useful insights from it.",
           "total_marks": 1
         },
         {
           "question": "There are numerous articles online discussing how IoT is driving data volumes and is inextricably linked to big data. Name an IoT device that you come into contact with and what data it may be sending and receiving?",
-          "answer": "",
+          "answer": "Sele driving car. It receives visuals (through sensory equipments) about the road and send intruction to the car's engine and steering control",
           "total_marks": 1
         }
       ]
@@ -30,32 +30,34 @@
       "questions": [
         {
           "question": "What is on-premise computing?",
-          "answer": "",
+          "answer": "On-premises software is installed and runs on computers on the premises of the person or organization using the software, rather than at a remote facility such as a server farm or cloud.",
           "total_marks": 1
         },
         {
           "question": "How has on-demand cloud computing enabled big data analytics?",
-          "answer": "",
+          "answer": "Large volumes of both structured and unstructured data requires increased processing power, storage, and more. The cloud provides not only readily-available infrastructure, but also the ability to scale this infrastructure really quickly so you can manage large spikes in traffic or usage.",
           "total_marks": 1
         },
         {
           "question": "What is a _multi-tenancy_, as it relates to cloud computing?",
-          "answer": "",
+          "answer": "In cloud computing, multitenancy means that multiple customers of a cloud vendor are using the same computing resources. ",
           "total_marks": 1
         },
         {
           "question": "How could organisations with existing infrastructure leverage _on-demand_ cloud computing?",
-          "answer": "",
+          "answer": "Cost is a key factor for many organizations considering migrating to the cloud. A hybrid cloud is a great option for companies that want more security and control of their data but need a cost-effective way to scale their operations to meet spikes in demand (as well as long-term growth). 
+
+",
           "total_marks": 1
         },
         {
           "question": "Give an example of a cloud managed service and how its management may be  beneficial (in at least two specific ways, e.g. critical software updates occur automatically with no down time)?",
-          "answer": "",
+          "answer": "Enables better business continuity and disaster recovery. Having the data stored in cloud infrastructure will allow your organization to recover from disasters faster, thus ensuring continued access to information and vital big data insights.",
           "total_marks": 2
         },
         {
           "question": "What is horizontal vs vertical scaling?",
-          "answer": "",
+          "answer": "Horizontal scaling means scaling by adding more machines to your pool of resources (also described as “scaling out”), whereas vertical scaling refers to scaling by adding more power (e.g. CPU, RAM) to an existing machine (also described as “scaling up”).",
           "total_marks": 2
         },
         {
